@@ -1,0 +1,2 @@
+About set up and download model file, please go to this site.
+https://github.com/adamstseng/general-deep-image-completion
